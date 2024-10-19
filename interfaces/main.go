@@ -1,4 +1,6 @@
-package interfaces
+package main
+
+import "fmt"
 
 type Runner interface {
 	Run() error
@@ -16,4 +18,10 @@ func (w Worker) Stop() error {
 
 func (w Worker) Run() error {
 	return nil
+}
+
+func main() {
+	w := Worker{}
+
+	fmt.Println("worker", w)
 }
