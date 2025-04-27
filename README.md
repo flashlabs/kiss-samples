@@ -5,3 +5,4 @@ Code samples used and discussed on the [Keep It Simple, Stupid! blog](https://bl
 - [How to send a PDF file to Claude.ai with Go SDK](https://github.com/flashlabs/kiss-samples/tree/main/pdf2claude)
 - [How to validate a payload schema](https://github.com/flashlabs/kiss-samples/tree/main/payloadschema)
 - [Fuzzing a Go REST API Handler](https://github.com/flashlabs/kiss-samples/tree/main/fuzzing)
+- [Running TensorFlow Models in Golang](https://github.com/flashlabs/kiss-samples/tree/main/tensorflow)
