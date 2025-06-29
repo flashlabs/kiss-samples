@@ -15,7 +15,7 @@ bleach==6.1.0
 Brotli==1.0.9
 certifi==2022.12.7
 cffi==1.15.1
-charset-normalizer==3.0.1
+charset-normalizer==3.4.2
 comm==0.2.2
 cryptography==41.0.3
 cssselect2==0.7.0
