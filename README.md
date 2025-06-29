@@ -7,4 +7,4 @@ Code samples used and discussed on the [Keep It Simple, Stupid! blog](https://bl
 - [Fuzzing a Go REST API Handler](https://github.com/flashlabs/kiss-samples/tree/main/fuzzing)
 - [Running TensorFlow Models in Golang](https://github.com/flashlabs/kiss-samples/tree/main/tensorflow)
 - [Building a Golang Microservice for Machine Learning Inference with TensorFlow](https://github.com/flashlabs/kiss-samples/tree/main/tensorflowrestapi)
-- [How to Run YOLOv5 Inference From Golang with Python API](https://blog.skopow.ski/how-to-run-yolov5-inference-from-golang-with-python-api)
+- [How to Run YOLOv5 Inference From Golang with Python API](https://github.com/flashlabs/kiss-samples/tree/main/yolo-in-go-with-python)
