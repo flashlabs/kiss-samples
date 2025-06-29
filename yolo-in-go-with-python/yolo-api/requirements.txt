@@ -110,7 +110,7 @@ platformdirs==4.2.0
 pluggy==1.3.0
 prometheus_client==0.20.0
 prompt-toolkit==3.0.43
-protobuf==5.26.1
+protobuf==6.31.1
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
