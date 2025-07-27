@@ -8,3 +8,4 @@ Code samples used and discussed on the [Keep It Simple, Stupid! blog](https://bl
 - [Running TensorFlow Models in Golang](https://github.com/flashlabs/kiss-samples/tree/main/tensorflow)
 - [Building a Golang Microservice for Machine Learning Inference with TensorFlow](https://github.com/flashlabs/kiss-samples/tree/main/tensorflowrestapi)
 - [How to Run YOLOv5 Inference From Golang with Python API](https://github.com/flashlabs/kiss-samples/tree/main/yolo-in-go-with-python)
+- [How to Run YOLOv8 Inference Directly in Golang (with ONNX)](https://github.com/flashlabs/kiss-samples/tree/main/yolo-in-go-with-onnx)
