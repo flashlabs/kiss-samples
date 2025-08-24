@@ -9,3 +9,4 @@ Code samples used and discussed on the [Keep It Simple, Stupid! blog](https://bl
 - [Building a Golang Microservice for Machine Learning Inference with TensorFlow](https://github.com/flashlabs/kiss-samples/tree/main/tensorflowrestapi)
 - [How to Run YOLOv5 Inference From Golang with Python API](https://github.com/flashlabs/kiss-samples/tree/main/yolo-in-go-with-python)
 - [How to Run YOLOv8 Inference Directly in Golang (with ONNX)](https://github.com/flashlabs/kiss-samples/tree/main/yolo-in-go-with-onnx)
+- [MCP Server in Golang Providing Data for Amazon Q in JetBrains IDE](https://blog.skopow.ski/mcp-server-in-golang-providing-data-for-amazon-q-in-jetbrains-ide)
