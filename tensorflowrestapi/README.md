@@ -1,5 +1,7 @@
 # Building a Golang Microservice for Machine Learning Inference with TensorFlow
 
+Builds a REST API microservice in Go that serves TensorFlow model predictions. Accepts image uploads via HTTP and returns JSON responses with classification results using MobileNet v2.
+
 For details see: https://blog.skopow.ski/building-a-golang-microservice-for-machine-learning-inference-with-tensorflow
 
 # Sources

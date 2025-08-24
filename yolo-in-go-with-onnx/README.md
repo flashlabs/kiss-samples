@@ -1,5 +1,7 @@
 # How to Run YOLOv8 Inference Directly in Golang (with ONNX)
 
+Demonstrates running YOLOv8 object detection directly in Go using ONNX Runtime. Processes images to detect objects, applies non-maximum suppression, and draws bounding boxes with confidence scores.
+
 For details see: https://blog.skopow.ski/how-to-run-yolov8-inference-directly-in-golang-with-onnx
 
 # Sources

@@ -1,5 +1,7 @@
 # Running TensorFlow Models in Golang
 
+Demonstrates how to load and run TensorFlow SavedModel for image classification in Go. Uses MobileNet v2 model to classify images and return predictions with confidence scores.
+
 For details see: https://blog.skopow.ski/running-tensorflow-models-in-golang
 
 # Sources

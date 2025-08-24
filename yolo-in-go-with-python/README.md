@@ -1,5 +1,7 @@
 # How to Run YOLOv5 Inference From Golang with Python API
 
+Shows how to integrate YOLOv5 object detection from Go by calling a Python FastAPI service. The Go backend sends images via HTTP multipart requests to a Python API that runs YOLOv5 inference.
+
 For details see: https://blog.skopow.ski/how-to-run-yolov5-inference-from-golang-with-python-api
 
 # Sources
