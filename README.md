@@ -10,5 +10,6 @@ Code samples used and discussed on the [Keep It Simple, Stupid! blog](https://bl
 - [How to Run YOLOv5 Inference From Golang with Python API](https://github.com/flashlabs/kiss-samples/tree/main/yolo-in-go-with-python)
 - [How to Run YOLOv8 Inference Directly in Golang (with ONNX)](https://github.com/flashlabs/kiss-samples/tree/main/yolo-in-go-with-onnx)
 - [MCP Server in Golang Providing Data for Amazon Q in JetBrains IDE](https://blog.skopow.ski/mcp-server-in-golang-providing-data-for-amazon-q-in-jetbrains-ide)
-- [HTTP Server in Go vs Java: the stuff that actually hurts in production](https://blog.skopow.ski/http-server-in-go-vs-java-the-stuff-that-actually-hurts-in-production)
-- [A Good Agent Skill Is a Contract, Not a Prompt](https://blog.skopow.ski/a-good-agent-skill-is-a-contract-not-a-prompt)
+- [HTTP Server in Go vs Java: the stuff that actually hurts in production](https://github.com/flashlabs/kiss-samples/tree/main/http-server-go-v-java)
+- [A Good Agent Skill Is a Contract, Not a Prompt](https://github.com/flashlabs/kiss-samples/tree/main/agent-skills-contract)
+- [Stop Using Full OAuth Handshakes for Internal Microservice Auth](https://github.com/flashlabs/kiss-samples/tree/main/token-auth)
