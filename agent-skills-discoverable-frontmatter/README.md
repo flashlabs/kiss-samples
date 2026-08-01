@@ -1,6 +1,6 @@
 # Agent Skills Discoverable Frontmatter
 
-Companion examples for the blog post: **"Frontmatter FTW: How to Make Agent Skills Discoverable"** ([https://blog.skopow.ski/how-to-make-agent-skills-discoverable-with-frontmatter](https://blog.skopow.ski/how-to-make-agent-skills-discoverable-with-frontmatter))
+Companion examples for the blog post: **"Frontmatter FTW: How to Make Agent Skills Discoverable"** ([https://blog.skopow.ski/frontmatter-ftw-how-to-make-agent-skills-discoverable](https://blog.skopow.ski/frontmatter-ftw-how-to-make-agent-skills-discoverable))
 
 This sample demonstrates how to structure AI agent skill files using YAML frontmatter to decouple discoverability triggers from execution details.
 
