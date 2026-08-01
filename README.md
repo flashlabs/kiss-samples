@@ -13,3 +13,4 @@ Code samples used and discussed on the [Keep It Simple, Stupid! blog](https://bl
 - [HTTP Server in Go vs Java: the stuff that actually hurts in production](https://github.com/flashlabs/kiss-samples/tree/main/http-server-go-v-java)
 - [A Good Agent Skill Is a Contract, Not a Prompt](https://github.com/flashlabs/kiss-samples/tree/main/agent-skills-contract)
 - [Stop Using Full OAuth Handshakes for Internal Microservice Auth](https://github.com/flashlabs/kiss-samples/tree/main/token-auth)
+- [Frontmatter FTW: How to Make Agent Skills Discoverable](https://github.com/flashlabs/kiss-samples/tree/main/agent-skills-discoverable-frontmatter)
